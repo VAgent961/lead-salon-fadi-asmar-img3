@@ -1,0 +1,29 @@
+{
+  "siteName": "Salon Fadi Asmar",
+  "description": "Experience precision grooming and traditional barber services at Salon Fadi Asmar in Chouf. Your local destination for a sharp haircut and professional beard care.",
+  "lang": "en",
+  "colors": {
+    "primary": "#1F2937",
+    "secondary": "#D4AF37",
+    "accent": "#D4AF37",
+    "background": "#FFFFFF",
+    "surface": "#F3F4F6",
+    "ink": "#111827",
+    "muted": "#4B5563",
+    "dark": "#1F2937"
+  },
+  "fonts": {
+    "heading": "Playfair Display",
+    "body": "Inter"
+  },
+  "extend": {
+    "colors": {},
+    "fontFamily": {},
+    "fontSize": {},
+    "spacing": {},
+    "borderRadius": {},
+    "boxShadow": {}
+  },
+  "extraCss": "",
+  "iconFont": ""
+}
